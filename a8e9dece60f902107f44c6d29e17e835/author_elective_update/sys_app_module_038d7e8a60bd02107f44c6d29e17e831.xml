@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Developmen 0 1714259612496</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_developmen_0_1714259612496</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 23:13:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>038d7e8a60bd02107f44c6d29e17e831</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Developmen 0 1714259612496</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_update_name>sys_app_module_038d7e8a60bd02107f44c6d29e17e831</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 23:13:34</sys_updated_on>
+        <timeline_page/>
+        <title>Developmen 0 1714259612496</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</application>
+        <file_path/>
+        <instance_id>212e7868c3e5ced45404dbdf0501314a</instance_id>
+        <instance_name>nowlearning-nlinst01629409-0001</instance_name>
+        <name>sys_app_module_038d7e8a60bd02107f44c6d29e17e831</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Developmen 0 1714259612496</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_developmen_0_1714259612496</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 23:13:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>038d7e8a60bd02107f44c6d29e17e831</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Developmen 0 1714259612496</sys_name><sys_overrides/><sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package><sys_policy/><sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope><sys_update_name>sys_app_module_038d7e8a60bd02107f44c6d29e17e831</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 23:13:34</sys_updated_on><timeline_page/><title>Developmen 0 1714259612496</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1863217</payload_hash>
+        <record_name>Developmen 0 1714259612496</record_name>
+        <reverted_from/>
+        <source>255db68a60bd02107f44c6d29e17e8f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 23:13:34</sys_created_on>
+        <sys_id>c38d7e8a60bd02107f44c6d29e17e833</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f21d5da1f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 23:13:34</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0b8d7e8ac4bd0210481c6414b3118a32</update_guid>
+        <update_guid_history>0b8d7e8ac4bd0210481c6414b3118a32:-1863217</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Developmen 0 1714259612496">577efeca60bd02107f44c6d29e17e859</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 23:17:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0bbb2e84d33849b19a484de40c7e7e79</sys_id>
+        <sys_metadata>038d7e8a60bd02107f44c6d29e17e831</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Developmen 0 1714259612496</sys_name>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_scope_delete display_value="">0679c0594b1d4164ae6bcfbab41012c9</sys_scope_delete>
+        <sys_update_name>sys_app_module_038d7e8a60bd02107f44c6d29e17e831</sys_update_name>
+        <sys_update_version display_value="sys_app_module_038d7e8a60bd02107f44c6d29e17e831">c38d7e8a60bd02107f44c6d29e17e833</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 23:17:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
