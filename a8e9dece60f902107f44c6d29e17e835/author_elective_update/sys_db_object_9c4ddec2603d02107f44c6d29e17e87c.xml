@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Developmen 0 1714251147307</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_developmen_0_1714251147307</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">18d0e3d39f2131107f44e6ca4224ab2e</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:52:28</sys_created_on>
+        <sys_id>9c4ddec2603d02107f44c6d29e17e87c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Developmen 0 1714251147307</sys_name>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_update_name>sys_db_object_9c4ddec2603d02107f44c6d29e17e87c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:52:28</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</application>
+        <file_path/>
+        <instance_id>212e7868c3e5ced45404dbdf0501314a</instance_id>
+        <instance_name>nowlearning-nlinst01629409-0001</instance_name>
+        <name>sys_db_object_9c4ddec2603d02107f44c6d29e17e87c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Developmen 0 1714251147307</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_developmen_0_1714251147307</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">18d0e3d39f2131107f44e6ca4224ab2e</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 20:52:28</sys_created_on><sys_id>9c4ddec2603d02107f44c6d29e17e87c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Developmen 0 1714251147307</sys_name><sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package><sys_policy/><sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope><sys_update_name>sys_db_object_9c4ddec2603d02107f44c6d29e17e87c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 20:52:28</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>2076667440</payload_hash>
+        <record_name>Developmen 0 1714251147307</record_name>
+        <reverted_from/>
+        <source>ace9dece60f902107f44c6d29e17e839</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:52:28</sys_created_on>
+        <sys_id>544ddec2603d02107f44c6d29e17e8d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f2154abde0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:52:28</sys_updated_on>
+        <type>Table</type>
+        <update_guid>d84ddec29f3d02109a252e4791ec66d3</update_guid>
+        <update_guid_history>d84ddec29f3d02109a252e4791ec66d3:2076667440</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:53:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>a4f256533a1f4ec898fabf0e140421a1</sys_id>
+        <sys_metadata>9c4ddec2603d02107f44c6d29e17e87c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Developmen 0 1714251147307</sys_name>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_scope_delete display_value="">0679c0594b1d4164ae6bcfbab41012c9</sys_scope_delete>
+        <sys_update_name>sys_db_object_9c4ddec2603d02107f44c6d29e17e87c</sys_update_name>
+        <sys_update_version display_value="sys_db_object_9c4ddec2603d02107f44c6d29e17e87c">544ddec2603d02107f44c6d29e17e8d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:53:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

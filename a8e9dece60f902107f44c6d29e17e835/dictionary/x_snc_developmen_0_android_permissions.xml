@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="136dd206603d02107f44c6d29e17e84d" label="Android Permissions" max_length="40" name="x_snc_developmen_0_android_permissions" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

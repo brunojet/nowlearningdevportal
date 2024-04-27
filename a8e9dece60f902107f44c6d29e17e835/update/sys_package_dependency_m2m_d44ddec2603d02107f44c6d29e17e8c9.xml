@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">c6c023d39f2131107f44e6ca4224abfd</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:52:28</sys_created_on>
+        <sys_id>d44ddec2603d02107f44c6d29e17e8c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:52:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

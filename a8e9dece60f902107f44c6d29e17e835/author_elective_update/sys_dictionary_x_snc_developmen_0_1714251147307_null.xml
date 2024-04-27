@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="" extends="sys_import_set_row" table="x_snc_developmen_0_1714251147307">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Collection">collection</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_snc_developmen_0_1714251147307</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:52:28</sys_created_on>
+        <sys_id>904ddec2603d02107f44c6d29e17e880</sys_id>
+        <sys_name>x_snc_developmen_0_1714251147307</sys_name>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_update_name>sys_dictionary_x_snc_developmen_0_1714251147307_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:52:28</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</application>
+        <file_path/>
+        <instance_id>212e7868c3e5ced45404dbdf0501314a</instance_id>
+        <instance_name>nowlearning-nlinst01629409-0001</instance_name>
+        <name>sys_dictionary_x_snc_developmen_0_1714251147307_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="x_snc_developmen_0_1714251147307"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_snc_developmen_0_1714251147307</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 20:52:28</sys_created_on><sys_id>904ddec2603d02107f44c6d29e17e880</sys_id><sys_name>x_snc_developmen_0_1714251147307</sys_name><sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package><sys_policy/><sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope><sys_update_name>sys_dictionary_x_snc_developmen_0_1714251147307_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 20:52:28</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1021487593</payload_hash>
+        <record_name>Developmen 0 1714251147307</record_name>
+        <reverted_from/>
+        <source>ace9dece60f902107f44c6d29e17e839</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:52:28</sys_created_on>
+        <sys_id>584ddec2603d02107f44c6d29e17e8d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f2154abcf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:52:28</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>dc4ddec29a3d02103e6866d1759b36d1</update_guid>
+        <update_guid_history>dc4ddec29a3d02103e6866d1759b36d1:1021487593</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:53:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>1686ea920c0a4f80961593b9c2f25900</sys_id>
+        <sys_metadata>904ddec2603d02107f44c6d29e17e880</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_developmen_0_1714251147307</sys_name>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_parent display_value="">9c4ddec2603d02107f44c6d29e17e87c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_scope_delete display_value="">0679c0594b1d4164ae6bcfbab41012c9</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_snc_developmen_0_1714251147307_null</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_snc_developmen_0_1714251147307_null">584ddec2603d02107f44c6d29e17e8d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:53:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

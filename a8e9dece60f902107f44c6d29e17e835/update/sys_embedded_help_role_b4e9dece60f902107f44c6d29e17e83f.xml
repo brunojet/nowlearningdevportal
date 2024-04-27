@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_developmen_0.admin" name="x_snc_developmen_0.admin">e0e9dece60f902107f44c6d29e17e83e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:37:45</sys_created_on>
+        <sys_id>b4e9dece60f902107f44c6d29e17e83f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e0e9dece60f902107f44c6d29e17e83e</sys_name>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b4e9dece60f902107f44c6d29e17e83f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:37:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

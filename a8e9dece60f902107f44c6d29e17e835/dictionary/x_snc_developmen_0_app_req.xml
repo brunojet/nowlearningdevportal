@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f31b5642603d02107f44c6d29e17e827" label="Application Request" max_length="40" name="x_snc_developmen_0_app_req" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Application Label" max_length="40" name="application_label" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application Package" max_length="40" name="application_package" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="bdcb83a85f220100a9ad2572f2b4773d" label="Opened by" max_length="32" name="opened_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Permissions" max_length="40" name="permissions" reference="x_snc_developmen_0_android_permissions" type="glide_list"/>
+        <element default="open" label="Request state" max_length="40" name="request_state" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Wating support" sequence="1" value="wating_support"/>
+                <element inactive_on_update="false" label="Waiting partner" sequence="2" value="waiting_partner"/>
+                <element inactive_on_update="false" label="Closed" sequence="3" value="closed"/>
+                <element inactive_on_update="false" label="Canceled" sequence="4" value="canceled"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="opened_by"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Security &amp; sign-in">9f042a0e1d3d021022e2028fa460c73a</macroponent>
+        <name>Checking MFA setup</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ * @param {ApiHelpers} params.helpers
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    var modelData = api.data.gliderecord_query_1.output.data.GlideRecord_Query.sys_properties._results[0].value.value;
+    var mfa = {};
+    if (modelData == "false") {
+        api.setState('propertyText', helpers.translateSync("Please enable Multi-factor authentication on the instance."));
+        api.setState('propertyValue', true);
+    } else {
+        api.setState('propertyText', helpers.translateSync("Configure Multi-factor authentication by clicking the button below."));
+        api.setState('propertyValue', false);
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-27 21:22:12</sys_created_on>
+        <sys_id>ab042a0e963d021059702d47649d6c3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Checking MFA setup</sys_name>
+        <sys_package display_value="Development Partner Portal" source="x_snc_developmen_0">a8e9dece60f902107f44c6d29e17e835</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Partner Portal">a8e9dece60f902107f44c6d29e17e835</sys_scope>
+        <sys_update_name>sys_ux_client_script_ab042a0e963d021059702d47649d6c3b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-27 21:22:12</sys_updated_on>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>
